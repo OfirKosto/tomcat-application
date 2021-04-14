@@ -11,9 +11,5 @@
 <h3>Hi Ziv Vilozni</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
     
-<%
-int i=A1 + 2;
-%>
-    
 </body>
 </html>
